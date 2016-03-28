@@ -1,5 +1,5 @@
 SEPARATOR=" • "
-DEFAULT_ITEM_ATTR="#[fg=red,bg=black]"
+DEFAULT_ITEM_ATTR="#[fg=#999999,bg=black]"
 PREFIX=""
 SUFFIX=""
 
